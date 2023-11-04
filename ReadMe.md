@@ -47,5 +47,3 @@ Ensure you have a C++ compiler installed on your system (e.g., `g++` for Unix-li
 - If you encounter issues or have questions, refer to the documentation in each header file for class functionalities.
 
 ---
-
-Feel free to customize the README based on your specific project details and any additional information you want to provide to users or developers.
